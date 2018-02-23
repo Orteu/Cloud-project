@@ -1,0 +1,31 @@
+body{
+    background-color: #2C3E50;
+    padding-left: 50px;
+    padding-top: 100px;
+ }
+
+.form-control{
+    width: 45%;
+}
+
+.alert-dismissible{
+    height: auto;
+    width: 25%;
+
+}
+
+h2{
+    color: white;
+}
+
+.error{
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+p>img{
+    width: 28px;
+}
+
+
+
